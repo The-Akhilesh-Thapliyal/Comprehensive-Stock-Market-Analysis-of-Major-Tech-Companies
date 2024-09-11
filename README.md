@@ -88,3 +88,12 @@ Finally, we analyze whether the daily returns of the companies are correlated. A
 - **Matplotlib** & **Seaborn**: Data visualization
 - **Plotly**: Interactive graphing library
 - **Jupyter Notebook**: For interactive computing
+
+## About Me
+
+Hello, I'm Akhilesh Thapliyal!
+
+## Contact
+- **Email:** akhilesh.thedev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/akhilesh-thapliyal
+- **GitHub:** https://github.com/The-Akhilesh-Thapliyal
